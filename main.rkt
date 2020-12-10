@@ -1,0 +1,2 @@
+(define (go)
+    'Hello World')
